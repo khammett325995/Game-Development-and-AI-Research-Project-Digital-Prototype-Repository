@@ -25,6 +25,11 @@
 # The options that would be available no matter what are shown in the digital prototype based on previously completed user research would 
 # be available initially in this file.
 
+# A function for chosing which features would initially run. Initially, this would include the listed functions below but can be 
+# changed to add or remove features by updating the file.
+
+# Volume Code Placeholder
+
 # Closed Captioning Code Placeholder
 
 # Automizing Visual Cues Code Placeholder
