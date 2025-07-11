@@ -1,4 +1,4 @@
-# This file would store the code for each vision accessibility option.
+# This file would store the code for each of the vision accessibility options.
 
 # Digital Prototype Instructions: For the simulation only, click the space bar to return back to the game.
  

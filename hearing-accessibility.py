@@ -1,4 +1,4 @@
-# This file would store the code for each hearing accessibility option.
+# This file would store the code for each of the hearing accessibility options.
 
 # Digital Prototype Instructions:
 # For the simulation only, click the space bar to return back to the game.
